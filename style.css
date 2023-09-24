@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,400;1,600;1,700&display=swap');
+.card{
+    background-color: rgb(166, 249, 136);
+    border: 2px solid green;
+   
+  
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+}
+.card-title{
+    font-weight: 600;
+    color: blue;
+    padding: 5px;
+    border-bottom: 1px groove black;
+}
+body{
+    display: flex;
+    flex-direction: row;
+flex-wrap: wrap; 
+justify-content: center;
+margin: 3px;
+padding: 3px;
+background-color: rgb(247, 246, 246);
+
+}
+h5{
+    font-weight: 400;
+    font-size: 20px;
+    
+
+}
